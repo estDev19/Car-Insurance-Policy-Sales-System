@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73a9b212-7e30-4a86-b147-87c8defc80cd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QAsE58P46z3cytnLtBs1xP3NCw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/esteb/Desktop/Progra4P2/Progra4P2 BE&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;fe01ce2a7fbac8fafaed7c982a04e229&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Progra4P2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.Progra4P2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73a9b212-7e30-4a86-b147-87c8defc80cd" name="Changes" comment="" />
+      <created>1684807612069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684807612069</updated>
+      <workItem from="1684807613529" duration="1321000" />
+      <workItem from="1684958439908" duration="1674000" />
+      <workItem from="1684964138650" duration="1019000" />
+      <workItem from="1684965268327" duration="2118000" />
+      <workItem from="1684968998032" duration="307000" />
+      <workItem from="1684971737303" duration="657000" />
+      <workItem from="1684978813310" duration="300000" />
+      <workItem from="1684979176010" duration="249000" />
+      <workItem from="1684979560384" duration="813000" />
+      <workItem from="1684980495163" duration="525000" />
+      <workItem from="1685066439660" duration="662000" />
+      <workItem from="1685111339062" duration="1210000" />
+      <workItem from="1685130480635" duration="3254000" />
+      <workItem from="1685147014730" duration="1803000" />
+      <workItem from="1685214176773" duration="6338000" />
+      <workItem from="1685229469874" duration="684000" />
+      <workItem from="1685238019889" duration="1491000" />
+      <workItem from="1685297291257" duration="9730000" />
+      <workItem from="1685369722897" duration="141000" />
+      <workItem from="1685370542203" duration="600000" />
+      <workItem from="1685388516494" duration="1047000" />
+      <workItem from="1685396379439" duration="266000" />
+      <workItem from="1685412535606" duration="569000" />
+      <workItem from="1685504922722" duration="6195000" />
+      <workItem from="1685553931589" duration="1118000" />
+      <workItem from="1685627822061" duration="638000" />
+      <workItem from="1685630731713" duration="636000" />
+      <workItem from="1685896739928" duration="642000" />
+      <workItem from="1686016380414" duration="799000" />
+      <workItem from="1686107543837" duration="1076000" />
+      <workItem from="1686113653942" duration="625000" />
+      <workItem from="1686114486147" duration="219000" />
+      <workItem from="1686179597739" duration="5890000" />
+      <workItem from="1686238176279" duration="106000" />
+      <workItem from="1686285187628" duration="3000" />
+      <workItem from="1686285718177" duration="1656000" />
+      <workItem from="1686355401577" duration="822000" />
+      <workItem from="1686360627636" duration="3000" />
+      <workItem from="1686363291308" duration="1011000" />
+      <workItem from="1686364745333" duration="700000" />
+      <workItem from="1686367363360" duration="243000" />
+      <workItem from="1686444947134" duration="307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Progra4P2_BE$Progra4P2Application.ic" NAME="Progra4P2Application Coverage Results" MODIFIED="1686108001449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
